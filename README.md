@@ -1,0 +1,1 @@
+This project uses the coco image dataset and is trained locally on my premises on 2 types of images (Sandwiches and elephants) and the model is also given a caption file and based on that when we provide a new input image it generates a caption for the new image.
